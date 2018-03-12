@@ -1,10 +1,10 @@
-Agena Core Coin, Fork Page
-===============================
+Agena Core 
+==========
 Agena is an innovative cryptocurrency with many exclusive features such as Autonomous Smart Masternodes. 
 As the Agena Network grows,Smart Masternodes adjust their collateral autonomously with  current height of the block.
 
 
-You you need help in instalion of wallet daemon and intgration into your pool, paid service is available, contact through https://github.com/goodthebest
+If you need help in instalion of wallet daemon and intgration into your pool, paid service is available, contact through https://github.com/goodthebest
 -
 
 INSTALLATION
@@ -15,7 +15,7 @@ INSTALLATION
 
 make
 
-Agena Tecknical info
+Agena Technical info
 --------------------
 
 Ticker : AGN
